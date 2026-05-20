@@ -1,6 +1,5 @@
 # SARIMA Forecasting of California ILI Activity
-
-**Course:** MATH 5140 — Time Series Analysis  
+ 
 **Tools:** R | ARIMA/SARIMA | CDC ILINet Data  
 
 ---
